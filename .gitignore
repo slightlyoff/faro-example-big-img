@@ -1,0 +1,6 @@
+talk/themes/faro/
+*.swp
+.env
+publish/
+node_modules/
+pnpm-lock.yaml

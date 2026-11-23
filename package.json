@@ -1,0 +1,28 @@
+{
+  "name": "faro-example-big-img",
+  "version": "0.1.0",
+  "description": "A Faro Example with Images and Animations",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm exec faro build",
+    "dev": "pnpm exec faro dev",
+    "serve": "pnpm exec faro dev",
+    "clean": "pnpm exec faro clean"
+  },
+  "keywords": [],
+  "author": "Alex Russell",
+  "license": "MIT",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.9.1",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.9.1",
+  "type": "module",
+  "dependencies": {
+    "farojs": "link:../faro"
+  }
+}
+

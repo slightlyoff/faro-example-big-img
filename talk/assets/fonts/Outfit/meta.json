@@ -1,0 +1,37 @@
+{
+  "kind": "webfonts#webfontList",
+  "items": [
+    {
+      "family": "Outfit",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v15",
+      "lastModified": "2025-09-05",
+      "files": {
+        "regular": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4N5tkFrc4H0ng.woff2"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4C0Ew.woff2",
+      "axes": [
+        {
+          "tag": "wght",
+          "start": 100,
+          "end": 900
+        }
+      ],
+      "downloadedTo": {
+        "regular": {
+          "isVariable": true,
+          "path": "talk/assets/fonts/Outfit/Outfit-regular.woff2",
+          "filename": "Outfit-regular.woff2"
+        }
+      }
+    }
+  ]
+}

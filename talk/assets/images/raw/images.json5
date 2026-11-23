@@ -1,0 +1,95 @@
+{
+  "./talk/assets/images/PXL_20260906_095000995.jpg": {
+    "__RawImgData": true,
+    "id": "./talk/assets/images/PXL_20260906_095000995.jpg",
+    "width": 4026,
+    "height": 2265,
+    "exif": {
+      "make": "Google",
+      "model": "Pixel 9 Pro",
+      "name": "Google, Pixel 9 Pro",
+      "exposure_time": 0.000938,
+      "aperture": 1.5,
+      "focal_length": 6.9,
+      "iso": 19
+    }
+  },
+  "PXL_20260905_124518945.jpg": {
+    "__RawImgData": true
+  },
+  "MAYsdoYpGuk": {
+    "__RawImgData": true
+  },
+  "32412942596": {
+    "__RawImgData": true
+  },
+  "32331836541": {
+    "__RawImgData": true
+  },
+  "//unsplash.com/photos/blue-circuit-board-jXd2FSvcRr8": {
+    "__RawImgData": true
+  },
+  "31641199803": {
+    "__RawImgData": true
+  },
+  "LondonScienceMuseumsReplicaDifferenceEngine.jpg": {
+    "__RawImgData": true
+  },
+  "./assets/images/PXL_20260906_095000995.jpg": {
+    "__RawImgData": true
+  },
+  "/projects/talks/faro-example3/talk/assets/images/PXL_20260906_095000995.jpg": {
+    "__RawImgData": true
+  },
+  "PXL_20260904_132931403.jpg": {
+    "__RawImgData": true
+  },
+  "PXL_20260905_124518945": {
+    "__RawImgData": true
+  },
+  "PXL_20260904_132931403": {
+    "__RawImgData": true,
+    "id": "PXL_20260904_132931403",
+    "width": 4080,
+    "height": 2294,
+    "exif": {
+      "make": "Google",
+      "model": "Pixel 9 Pro",
+      "name": "Google, Pixel 9 Pro",
+      "exposure_time": 0.0006,
+      "aperture": 1.5,
+      "focal_length": 6.9,
+      "iso": 22
+    }
+  },
+  "PXL_20260905_124519587": {
+    "__RawImgData": true,
+    "id": "PXL_20260905_124519587",
+    "width": 4080,
+    "height": 3072,
+    "exif": {
+      "make": "Google",
+      "model": "Pixel 9 Pro",
+      "name": "Google, Pixel 9 Pro",
+      "exposure_time": 0.003264,
+      "aperture": 1.5,
+      "focal_length": 6.9,
+      "iso": 21
+    }
+  },
+  "PXL_20260909_210644831.jpg": {
+    "__RawImgData": true,
+    "id": "PXL_20260909_210644831.jpg",
+    "width": 4080,
+    "height": 3072,
+    "exif": {
+      "make": "Google",
+      "model": "Pixel 9 Pro",
+      "name": "Google, Pixel 9 Pro",
+      "exposure_time": 0.010001,
+      "aperture": 1.5,
+      "focal_length": 6.9,
+      "iso": 20
+    }
+  }
+}

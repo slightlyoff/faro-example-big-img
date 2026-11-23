@@ -1,0 +1,27 @@
+{
+  "src": "./talk",
+  "md": "./talk/talk.slides.md",
+  "dest": "./publish",
+  "formats": [
+    "present"
+  ],
+  "eleventyDataAlias": "talk",
+  "talkTitle": "BOO!",
+  "event": "Spoopy Slides",
+  "eventDate": "2026-11-14",
+  "speaker": {
+    "name": "Uncle Munster",
+    "email": "ahahahaha@hahaha.com",
+    "url": "",
+    "bio": "",
+    "mastodon": "",
+    "bsky": "",
+    "linkedin": "UMM"
+  },
+  "fonts": [ "Outfit" ],
+  "theme": "faro",
+  "layout": "default",
+  "defaultSlideData": {
+    "build": "all"
+  }
+}
