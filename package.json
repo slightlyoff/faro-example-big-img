@@ -15,14 +15,13 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "12.9.1",
+      "version": "12.23.0",
       "onFail": "download"
     }
   },
-  "packageManager": "pnpm@12.9.1",
+  "packageManager": "pnpm@12.23.0",
   "type": "module",
   "dependencies": {
     "farojs": "link:../faro"
   }
 }
-

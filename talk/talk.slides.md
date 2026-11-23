@@ -88,9 +88,9 @@ let f = new Foo();
     h1 {
       margin-bottom: 1rem;
     }
-    code {
-      font-size: var(--smaller);
-      line-height: 1.0;
+    code,
+    faro-lighter {
+      line-height: 1.1;
     }
     micro-lighter::part(line-numbers),
     faro-lighter::part(line-numbers) {
